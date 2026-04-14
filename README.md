@@ -155,7 +155,7 @@ RCM 的一般反应可以表示为：
                               ▼
                   Cyclic alkene / 环状烯烃
 ```
-<img src="rcm_cycle.png" alt="RCM Cycle" width="400">
+<img src="rcm_cycle.png" alt="RCM Cycle" width="555">
 ---
 
 ## 5. Common Catalysts / 常用催化剂
