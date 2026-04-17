@@ -6,6 +6,10 @@ Compiled for Organic Chemistry Study — April 13, 2026
 
 ---
 
+<video width="320" height="240" controls><source src="RCM.mp4" type="video/mp4"></video>
+
+---
+
 ## Table of Contents
 
 1. [Introduction / 引言](#1-introduction--引言)
